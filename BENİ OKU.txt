@@ -1,0 +1,2 @@
+Admin panel kullanıcı adı : admin,yunus
+Şifre : admin,yunus123
